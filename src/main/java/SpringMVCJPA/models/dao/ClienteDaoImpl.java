@@ -1,8 +1,9 @@
 package SpringMVCJPA.models.dao;
 
+import SpringMVCJPA.models.entity.Cliente;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
-import test.models.entity.Cliente;
+
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;

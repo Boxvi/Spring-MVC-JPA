@@ -1,6 +1,8 @@
 package SpringMVCJPA.models.dao;
 
-import test.models.entity.Cliente;
+
+
+import SpringMVCJPA.models.entity.Cliente;
 
 import java.util.List;
 
